@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <Nullable>enable</Nullable>
+	<ImplicitUsings>enable</ImplicitUsings>
+		<Authors>Nikita Midili</Authors>
+		<Version>1.5.0</Version>
+		<Company>Eblan CO.</Company>
+		<Description>Тяжелая работа с нагетсами</Description>
+  </PropertyGroup>
+	
+		<ItemGroup>
+				<None Include="license\LICENSE.txt" Pack="true" PackagePath="" />
+		</ItemGroup>
+
+</Project>

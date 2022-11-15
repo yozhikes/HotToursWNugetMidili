@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HotToursLogic/1.0.0": {
+        "runtime": {
+          "lib/net6.0/HotToursLogic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotToursLogic/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G7lLUqdAcwsW1xlz12dztTztOXu56zAGcwEm+2fb0pUJwTxsoWZpZd8oxV+GVQaw38aiVFNIayzhmmVpKmY8hQ==",
+      "path": "hottourslogic/1.0.0",
+      "hashPath": "hottourslogic.1.0.0.nupkg.sha512"
+    }
+  }
+}
